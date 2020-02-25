@@ -1,5 +1,4 @@
-# I am Prerak Patel and this program is desinged by me and had not shared
-# with anyone. My professor's name is Tiffany,Antopoloski
+
 
 def encoding(password):
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
